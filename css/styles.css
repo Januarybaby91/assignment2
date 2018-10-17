@@ -1,23 +1,21 @@
-*{box-sizing: border-box;}
-html{font-family: helvetica;}
-body{background-color: #c7fadb}
-.logo{height: 7em}
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: helvetica;
+}
+
+body {
+    background-color: #c7fadb;
+}
+
+.logo {
+    height: 7em;
+}
+
 header {
     align-items: center;
-    
-    
-}
-header nav ul{
-    justify-content: center;
-}
-ul{
-    list-style-type: none;
-    margin: 10px;
-    padding:10px;
-    
-}
-li{
-    text-align: center;
-    padding: 
-    
+
+
 }
